@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+__pycache__/
+.virtual_documents
+.ipynb_checkpoints
+*.html
